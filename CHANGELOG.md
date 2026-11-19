@@ -6,7 +6,7 @@ refuses to release a version that has none, so move the `## [Unreleased]` entrie
 
 ## [Unreleased]
 
-## [1.0.0] - 2026-11-18
+## [1.0.0] - 2026-11-19
 
 ### Added
 
