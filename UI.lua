@@ -311,9 +311,9 @@ function UI:Create()
 
     -- Header
     local icon = frame:CreateTexture(nil, "ARTWORK")
-    icon:SetSize(16, 16)
-    icon:SetPoint("TOPLEFT", PAD, -7)
-    icon:SetTexture(ns.mediaPath .. "inccaller") -- Maldö's avatar with the war horn laid over it
+    icon:SetSize(20, 20)
+    icon:SetPoint("TOPLEFT", PAD, -5)
+    icon:SetTexture(ns.mediaPath .. "inccaller") -- the war horn, Maldö's avatar small behind it
 
     self.title = frame:CreateFontString(nil, "OVERLAY", "GameFontNormal")
     self.title:SetPoint("LEFT", icon, "RIGHT", 5, 0)
