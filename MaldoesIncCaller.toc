@@ -1,0 +1,19 @@
+## Interface: 16001
+## AllowLoadGameType: camelot
+## Title: |cffff8a3dMaldö's|r Inc Caller
+## Notes: One-click "inc" calls for battleground bases and flag carriers.
+## Notes-deDE: Inc-Ansagen für Basen und Flaggenträger im Schlachtfeld mit einem Klick.
+## Author: Maldö
+## Version: @project-version@
+## IconTexture: Interface\AddOns\MaldoesIncCaller\Media\inccaller-icon
+## SavedVariables: MaldoesIncCallerDB
+## AddonCompartmentFunc: MaldoesIncCaller_OnAddonCompartmentClick
+## X-Website: https://github.com/nfMalde/MaldoesIncCaller
+## X-License: GPL-3.0
+
+Log.lua
+Locales.lua
+Data.lua
+Core.lua
+UI.lua
+Options.lua
