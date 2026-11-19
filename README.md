@@ -29,7 +29,7 @@ one click:
 
 | The window | The call in chat |
 | --- | --- |
-| ![The window: Gold Mine is selected and the buttons pause after a call](docs/screenshots/window-call.png) | ![The call in party chat](docs/screenshots/call-chat.png) |
+| ![The window: Gold Mine is selected, the call buttons are ready](docs/screenshots/window.png) | ![The call in party chat](docs/screenshots/call-chat.png) |
 
 ![The options page](docs/screenshots/options.png)
 
